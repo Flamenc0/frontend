@@ -1,4 +1,4 @@
-export const BASE_URL = 'https://saintedlittlebackend.nomoredomainswork.ru/api';
+export const BASE_URL = 'https://flamenco-backend.nomorepartiesco.ru/api';
 
 export const endpoints = {
   games: `${BASE_URL}/games`,
